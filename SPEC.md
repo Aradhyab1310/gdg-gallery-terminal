@@ -1,15 +1,14 @@
-# My portfolio spec
+# Example portfolio spec (fictional student)
 
-<!-- WORKSHOP: Answer the questions below in plain English. Replace each question with your own answer. Keep each answer short. Delete any question you cannot answer; never invent projects, skills or links. Do not ask the agent to build until you have filled this in. -->
+<!-- EXAMPLE ONLY. Sam Rivera and these projects are made up. Students write their own SPEC.md; agents must not use this file as a source of site content. -->
 
-- **Who I am:** What is your name, what do you study or do, and where?
-- **Audience and goal:** Who do you want to visit your portfolio, and what should they learn about you?
-- **About me:** In 1–2 sentences, what interests you or what do you enjoy building?
-- **Sections:** Which sections do you want? Choose only ones you have content for (Home, About, Projects, Skills, Contact, Resume).
-- **Projects:** What 1–3 real projects do you want to show? Put each one on its own line below: name, what it does, and a link if you have one. If you have no projects yet, delete this question.
-  - Project 1: name / what it does / link (optional)
-  - Project 2: name / what it does / link (optional)
-- **Skills:** Which tools, languages or skills have you actually used?
-- **Contact:** Which email, GitHub or LinkedIn link should visitors use? Include only links you want public.
-- **Vibe and feel:** Which ONE vibe do you want: `vibe-blueprint`, `vibe-brutalist`, `vibe-editorial`, `vibe-notebook`, `vibe-pixel`, `vibe-soft-pastel`, `vibe-terminal` or `vibe-y2k-web`? What 2–3 words describe the feel (for example: calm, bold, playful)?
-- **Optional files:** Are you including a photo or résumé? If so, put them in `public/assets/` (create the folder if it is missing) and write their filenames here. Otherwise, delete this line.
+- **Who I am:** Sam Rivera, first-year Computer Science student at York University.
+- **Audience and goal:** I want internship recruiters and classmates to see what I can build.
+- **About me:** I enjoy making small tools that solve everyday student problems.
+- **Sections:** Home, About, Projects, Skills, Contact.
+- **Projects:**
+  - Bus Buddy: a Python script showing upcoming campus bus departures.
+  - Study Timer: a simple Pomodoro timer website built with HTML, CSS and JavaScript.
+- **Skills:** Python, HTML, CSS, JavaScript, Git.
+- **Contact:** sam.rivera@example.com; GitHub: https://example.com/sam.
+- **Vibe and feel:** `vibe-terminal`: hacker-inspired, dark background, green accents, monospace typography, typed-out `whoami` introduction.
